@@ -13,7 +13,7 @@ Portrait und Dokumentation der Person hinter Moni's Elektro Base.
 
 ## 💼 Beruf & Expertise
 
-**Beruf/Position:** Informatiker
+**Beruf/Position:** Informatiker und Geschäftsführer der [[Obeco-GmbH]]
 
 ### Technische Fähigkeiten
 - Home Assistant Setup & Konfiguration

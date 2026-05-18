@@ -1,6 +1,14 @@
 ## Beschreibung
 
-Unser Balkonkraftwerk ist eine kleine Solar-Photovoltaikanlage auf dem Garagendach zur dezentralen Stromerzeugung. Sie erzeugt Solarstrom und speist diesen in drei [[Marstek Venus 3]]    ein.
+Unser Balkonkraftwerk ist eine kleine Solar-Photovoltaikanlage auf dem Garagendach zur dezentralen Stromerzeugung. 
+
+![[balkonkraftwerk.webp]]
+
+
+Sie erzeugt Solarstrom und speist diesen in drei [[Marstek Venus 3]]  ein.
+
+
+
 
 ## Spezifikationen
 

@@ -5,7 +5,18 @@
       "Read(//o/Privat/Monika/Haus/Moni''''s Elektro Base/**)",
       "Bash(chmod +x .git/hooks/pre-commit)",
       "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && rm -f .git/index.lock && git status)",
-      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add .gitignore && git commit -m \"Update: Claude-Dateien zur .gitignore hinzugefügt\" && git push)"
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add .gitignore && git commit -m \"Update: Claude-Dateien zur .gitignore hinzugefügt\" && git push)",
+      "Write(O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base/.git/hooks/post-commit)",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && chmod +x .git/hooks/post-commit && rm -f .git/index.lock && git status)",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add \"Anleitungen/Git-Versionskontrolle-Setup.md\" && git commit -m \"Add: Anleitung für Git-Versionskontrolle und GitHub-Backup\")",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add \"Anleitungen/Datensicherung-Übersicht.md\" && git commit -m \"Add: Datensicherung-Übersicht\")",
+      "Read(//o/Privat/Monika/Haus/Moni''s Elektro Base/**)",
+      "Read(//o/Privat/Monika/Haus/Moni''''''''s Elektro Base/**)",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add \"Objekte/Datensicherung/Datensicherung-Übersicht.md\" && git commit -m \"Add: Datensicherung-Übersicht\")",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add \"Objekte/Monika.md\" && git commit -m \"Add: Persönliche Dokumentation - Monika\")",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add \"Anleitungen/Joachim.md\" && git commit -m \"Fix: Bild-Syntax in Joachim.md korrigiert\")",
+      "WebFetch(domain:www.obeco.de)",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add \"Objekte/Obeco-GmbH.md\" && git commit -m \"Add: Obeco GmbH Unternehmensseite\")"
     ]
   }
 }

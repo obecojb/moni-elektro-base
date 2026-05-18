@@ -1,4 +1,3 @@
-# Obeco GmbH
 
 Dokumentation der Obeco GmbH – IT-Dienstleistungsunternehmen und Partner.
 
@@ -29,7 +28,7 @@ Dokumentation der Obeco GmbH – IT-Dienstleistungsunternehmen und Partner.
 - IT-Grundschutz
 - Compliance-Management
 
-### 4. Bild+Ton
+### 4. Bild + Ton
 - Multimedia-Dienstleistungen
 - Corporate Identity
 - Schulungen und Trainings

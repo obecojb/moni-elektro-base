@@ -8,7 +8,7 @@ Moni's Elektro Base nutzt ein mehrschichtiges Sicherungssystem:
 - **Obsidian Vault** lokal auf dem NAS für schnelle Zugriffe
 - **Regelmäßige Commits** vor größeren Änderungen oder Veröffentlichungen
 
-Dadurch sind alle Komponenten-Dokumentationen mehrfach geschützt und jederzeit wiederherstellbar:
+Dadurch sind alle Komponenten-Dokumentationen mehrfach geschützt und jederzeit wiederherstellbar. Details dazu finden Sie in unserer [[README]]
 
 [[Git-Versionskontrolle-Setup]]
 

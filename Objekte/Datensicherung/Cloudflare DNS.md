@@ -4,6 +4,8 @@
 
 Cloudflare DNS ist ein schneller und sicherer DNS-Dienst, der für das Haus-Netzwerk verwendet wird. Er bietet Schutz vor Malware, Phishing und unerwünschten Inhalten sowie DNS-over-HTTPS (DoH) für Sicherheit.
 
+Wir verwenden ihn um [[Moni's Elektro Base]] unseren Lesern leichter zugänglich zu machen
+
 ## Hersteller-Informationen
 
 - **Unternehmen**: Cloudflare
