@@ -3,6 +3,10 @@
 .obsidian/cache
 .obsidian/workspace*.json
 
+# Claude Code
+.claude/
+.claudian/
+
 # Temporäre Dateien
 .trash/
 *.tmp

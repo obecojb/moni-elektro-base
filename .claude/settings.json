@@ -3,7 +3,9 @@
     "allow": [
       "Write(O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base/.git/hooks/pre-commit)",
       "Read(//o/Privat/Monika/Haus/Moni''''s Elektro Base/**)",
-      "Bash(chmod +x .git/hooks/pre-commit)"
+      "Bash(chmod +x .git/hooks/pre-commit)",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && rm -f .git/index.lock && git status)",
+      "Bash(cd \"O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base\" && git add .gitignore && git commit -m \"Update: Claude-Dateien zur .gitignore hinzugefügt\" && git push)"
     ]
   }
 }
