@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779092103957-6fnifse60",
+  "providerId": "claude",
+  "title": "**Google Analytics Tag einfügen**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779092103958,
+  "updatedAt": 1779096775448,
+  "lastResponseAt": 1779096775448,
+  "sessionId": "ec549e73-48f4-4aff-a6d1-0349db891199",
+  "providerState": {
+    "providerSessionId": "ec549e73-48f4-4aff-a6d1-0349db891199"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36029,
+    "contextWindow": 200000,
+    "contextTokens": 36039,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

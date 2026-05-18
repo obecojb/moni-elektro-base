@@ -1,0 +1,23 @@
+# Obsidian Workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/workspace*.json
+
+# Temporäre Dateien
+.trash/
+*.tmp
+*.swp
+
+# Sensible Daten (NIEMALS commiten!)
+secrets.md
+config-local.md
+token*.md
+*.env
+*.env.local
+
+# Node Modules (falls verwendet)
+node_modules/
+
+# OS-Dateien
+.DS_Store
+Thumbs.db

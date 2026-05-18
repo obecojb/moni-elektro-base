@@ -1,0 +1,36 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "dH4azQx_W37uVc0dj6XcB",
+      "name": "green",
+      "value": "#32e295"
+    },
+    {
+      "id": "hkTnzjUup8iroMXQXjoxy",
+      "name": "blue",
+      "value": "#878494"
+    },
+    {
+      "id": "iGjMRqafy78azEwMpaOCR",
+      "name": "yellow",
+      "value": "#f3ce16"
+    },
+    {
+      "id": "_UcGNfhoavxv5wzOZg-Pe",
+      "name": "red",
+      "value": "#e90c0c"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Objekte",
+      "color": "dH4azQx_W37uVc0dj6XcB"
+    },
+    {
+      "path": "Objekte/Moni's Elektro Base.md",
+      "color": "_UcGNfhoavxv5wzOZg-Pe"
+    }
+  ]
+}

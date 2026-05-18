@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778964888657-7gq5flap4",
+  "providerId": "claude",
+  "title": "Ich schaue mir den Inhalt deines Vaults an.<fu...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778964888669,
+  "updatedAt": 1779092074226,
+  "lastResponseAt": 1779088448135,
+  "sessionId": "239b58e5-d6ca-468d-afc6-f217f0f901a8",
+  "providerState": {
+    "providerSessionId": "239b58e5-d6ca-468d-afc6-f217f0f901a8"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 65453,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 65463,
+    "percentage": 33,
+    "contextWindowIsAuthoritative": true
+  }
+}
