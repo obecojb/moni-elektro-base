@@ -4,8 +4,8 @@
   "title": "**Google Analytics Tag einfügen**",
   "titleGenerationStatus": "success",
   "createdAt": 1779092103958,
-  "updatedAt": 1779096775448,
-  "lastResponseAt": 1779096775448,
+  "updatedAt": 1779098498925,
+  "lastResponseAt": 1779098498925,
   "sessionId": "ec549e73-48f4-4aff-a6d1-0349db891199",
   "providerState": {
     "providerSessionId": "ec549e73-48f4-4aff-a6d1-0349db891199"
@@ -13,12 +13,12 @@
   "currentNote": "CLAUDE.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 10,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 36029,
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 240,
+    "cacheReadInputTokens": 49193,
     "contextWindow": 200000,
-    "contextTokens": 36039,
-    "percentage": 18,
+    "contextTokens": 49441,
+    "percentage": 25,
     "contextWindowIsAuthoritative": true
   }
 }

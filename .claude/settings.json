@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(O:/Privat/Monika/Haus/Moni's Elektro Base/Moni's  Elektro Base/.git/hooks/pre-commit)",
+      "Read(//o/Privat/Monika/Haus/Moni''''s Elektro Base/**)",
+      "Bash(chmod +x .git/hooks/pre-commit)"
+    ]
+  }
+}
