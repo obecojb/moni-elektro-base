@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"c2c790a103aebd44","type":"file","file":"Moni's Elektro Base.md","x":-180,"y":-340,"width":380,"height":329},
-		{"id":"c71a3197bddf2681","type":"file","file":"Objekte/Server/Software/Home Assistant.md","x":0,"y":60,"width":400,"height":340}
+		{"id":"c71a3197bddf2681","type":"file","file":"Objekte/Software/Home Assistant.md","x":0,"y":60,"width":400,"height":340}
 	],
 	"edges":[
 		{"id":"9d14be001c7a84df","fromNode":"c71a3197bddf2681","fromSide":"top","toNode":"c2c790a103aebd44","toSide":"bottom"}
