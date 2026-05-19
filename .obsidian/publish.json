@@ -4,7 +4,8 @@
   "included": [
     "Objekte",
     "Assets",
-    "Anleitungen"
+    "Anleitungen",
+    "_navbar.md"
   ],
   "excluded": []
 }
