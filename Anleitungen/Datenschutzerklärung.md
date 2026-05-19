@@ -160,7 +160,7 @@ Obeco GmbH
 Datenschutz
 Arenberger Str. 230a
 D-56077 Koblenz
-E-Mail: [info@obecosupport.de](mailto:info@posebosupport.de)
+E-Mail: [info@obecosupport.de](mailto:info@obecosupport.de)
 
 ---
 
@@ -199,7 +199,7 @@ Für Fragen zum Datenschutz kontaktieren Sie bitte:
 Arenberger Str. 230a
 D-56077 Koblenz
 Telefon: 0261 96344660
-E-Mail: [info@obecosupport.de](mailto:info@posebosupport.de)
+E-Mail: [info@obecosupport.de](mailto:info@obecosupport.de)
 
 ---
 

@@ -1,8 +1,10 @@
+# Marstek CT002
+
 ## Beschreibung
 
 Der Marstek CT002 ist ein Stromwandler (Current Transformer) für die präzise Messung und Überwachung von Stromflüssen im Energiesystem. Er ermöglicht die genaue Erfassung der Energieflüsse zwischen [[Balkonkraftwerk]], [[Marstek Venus 3]] Stromspeichern und der Verbrauch im Haus.
 
-## Hersteller-Inforamtionen
+## Hersteller-Informationen
 
 https://marstek.de/products/ct002
 ## Spezifikationen

@@ -1,3 +1,5 @@
+# Smartmeter (easymeter Q3A)
+
 ## Beschreibung
 
 Der easymeter Q3A ist ein intelligenter Stromzähler (Smart Meter) zur genauen Messung und Überwachung des Stromverbrauchs. Er erfasst den Gesamtenergieverbrauch aus dem Stromnetz und liefert Echtzeit-Daten an den Stromlieferanten [[Tibber]], die Steuerung der Stromspeicher [[Marstek Venus 3]] und den [[Home Assistant]] für intelligentes Energiemanagement.

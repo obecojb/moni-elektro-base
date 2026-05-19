@@ -1,6 +1,10 @@
 {
   "siteId": "de5e776e976e097f2697978652abe0d1",
   "host": "publish-01.obsidian.md",
-  "included": [],
+  "included": [
+    "Objekte",
+    "Assets",
+    "Anleitungen"
+  ],
   "excluded": []
 }

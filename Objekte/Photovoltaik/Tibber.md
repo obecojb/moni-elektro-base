@@ -1,3 +1,5 @@
+# Tibber
+
 ## Beschreibung
 
 Tibber ist ein innovativer Stromlieferant mit dynamischen Strompreisen, der stündlich variable Stromtarife anbietet. Dies ermöglicht intelligentes Energiemanagement durch Anpassung des Stromverbrauchs an die Marktpreise.

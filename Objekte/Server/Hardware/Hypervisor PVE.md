@@ -2,6 +2,8 @@
 
 Diese Hardware bildet den [[Proxmox-PVE]] ab.
 
+![[ProxmoxPVE.webp]]
+
 ---
 
 ## Grundinformationen

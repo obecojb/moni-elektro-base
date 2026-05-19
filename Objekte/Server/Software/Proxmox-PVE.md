@@ -24,7 +24,7 @@ Der Proxmox-Server bildet die technische Grundlage für das gesamte Home Assista
 
 ## Update ##
 
-Das Update erfolgt  nach Eingang der Updatemeldung vom Hersteller mit [[Promox Update Script]].
+Das Update erfolgt nach Eingang der Updatemeldung vom Hersteller mit [[Proxmox Update Script]].
 
 
 

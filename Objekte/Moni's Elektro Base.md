@@ -8,15 +8,16 @@ Dies ist die umfassende Dokumentation aller IT-Werkzeuge und Komponenten des Sma
 
 Die Dokumentation wird mit [[Obsidian]] erstellt und verwaltet. Dies ermöglicht es uns, jederzeit aktuelle Informationen und Dokumentationen zu unseren Systemen und Arbeitsbereichen bereitzustellen und zu pflegen.
 
-Unterstützt wird dieser Prozess durch [[Claude AI]], die bei der Erstellung und Optimierung von Inhalten hilft.
+Unterstützt wird dieser Prozess durch [[Claude-AI]], die bei der Erstellung und Optimierung von Inhalten hilft.
 
 ## Zentrale Komponenten
 
 Die zentrale Schaltstelle des Systems ist der [[Home Assistant]], der als virtuelle Maschine auf dem [[Proxmox-Server]] betrieben wird. Der Proxmox-Server beherbergt zusätzlich weitere Services:
 
 - **Microsoft-Produkte**: Verschiedene Microsoft-Services für Verwaltung und Integration
-- **Tor Snowflake**: Proxy-Service zur Unterstützung des Tor-Netzwerks
-- **Sicherung**: [[Veeam Backup & Replication]] für Datensicherung
+- [[Tor Snowflake]]: Proxy-Service zur Unterstützung des Tor-Netzwerks
+- **Sicherung des Servers**: [[Veeam Backup & Replication]] für Datensicherung
+- [[Rechner Entwicklung]]: mein Notebook für alle Arbeiten: ein Tor zur Welt
 
 ## Hardware-Integration
 
