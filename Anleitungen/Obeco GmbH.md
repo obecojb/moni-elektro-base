@@ -1,3 +1,5 @@
+![[obeco-system-automation.webp]]
+
 
 Dokumentation der Obeco GmbH – IT-Dienstleistungsunternehmen und Partner.
 

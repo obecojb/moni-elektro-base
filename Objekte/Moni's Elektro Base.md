@@ -1,20 +1,35 @@
+![[Assets/Images/monis_elektro_base_logo.svg|563]]
 
-![[Assets/Images/monis_elektro_base_logo.svg|300]]
+## Willkommen
 
+Dies ist die umfassende Dokumentation aller IT-Werkzeuge und Komponenten des Smart Home Systems "Moni's Elektro Base". Sie finden hier detaillierte Informationen zu allen technischen Systemen, deren Integration und Verwaltung.
 
-Dies ist unsere Dokumentation der in der der Arenberger Str. 230a eingesetzten IT-Werkzeuge. Die Darstellung erfolgt mit  Obsidian: https://obsidian.md/de/
-Obsidian ermöglicht es uns jederzeit zeitnah aktuelle Informationen und Dokumentationen zu unseren  Themen und Arbeitsbereichen online zur Verfügung zu stellen.
+## Dokumentation und Verwaltung
 
-# Der Start
+Die Dokumentation wird mit [[Obsidian]] erstellt und verwaltet. Dies ermöglicht es uns, jederzeit aktuelle Informationen und Dokumentationen zu unseren Systemen und Arbeitsbereichen bereitzustellen und zu pflegen.
 
-Die zentrale Schaltstelle ist bei uns der [[Home Assistant]] der als virtuelle Maschine auf einem [[Proxmox-Server]] installiert ist. Daneben sind dort weitere Produkte von Microsoft, aber auch ein [[Tor Snowflake]] installiert. 
+Unterstützt wird dieser Prozess durch [[Claude AI]], die bei der Erstellung und Optimierung von Inhalten hilft.
 
-Die Anbindung weiterer Hardware wie unser [[Balkonkraftwerk]] oder ein [[Zigbee]] Netzwerk erfolgen durch spezielle Hardware.
+## Zentrale Komponenten
 
-Wichtig wie immer:  [[Datensicherung-Übersicht]]
+Die zentrale Schaltstelle des Systems ist der [[Home Assistant]], der als virtuelle Maschine auf dem [[Proxmox-Server]] betrieben wird. Der Proxmox-Server beherbergt zusätzlich weitere Services:
 
-Hier finden Sie unser [[Impressum]] und unsere [[Datenschutzerklärung]]
+- **Microsoft-Produkte**: Verschiedene Microsoft-Services für Verwaltung und Integration
+- **Tor Snowflake**: Proxy-Service zur Unterstützung des Tor-Netzwerks
+- **Sicherung**: [[Veeam Backup & Replication]] für Datensicherung
 
-Und wer ist [[Joachim]]?
+## Hardware-Integration
+
+Die Anbindung zusätzlicher Hardware erfolgt durch spezialisierte Geräte:
+
+- **[[Balkonkraftwerk]]**: Dezentrale Energieversorgung
+- **[[Zigbee]]-Netzwerk**: Drahtlose Kommunikation zwischen Komponenten
+- Weitere Sensoren und Aktoren für Automatisierung
+
+## Wichtige Informationen
+
+- **Datenschutz**: [[Datensicherung-Übersicht]] — Umfassendes Backup- und Sicherheitskonzept
+- **Rechtliches**: [[Impressum]] und [[Datenschutzerklärung]]
+- **Team**: [[Joachim]] — Dokumentation und Verwaltung
 
 

@@ -8,12 +8,12 @@ Portrait und Dokumentation der Person hinter Moni's Elektro Base.
 ## 👤 Persönliche Informationen
 
 **Name:** Joachim Berger
-**Rolle:** Projektleiterin & Dokumentation
+**Rolle:** Projektleitung & Dokumentation
 **Status:** Aktiv
 
 ## 💼 Beruf & Expertise
 
-**Beruf/Position:** Informatiker und Geschäftsführer der [[Obeco-GmbH]]
+**Beruf/Position:** Informatiker und Geschäftsführer der [[Obeco GmbH]]
 
 ### Technische Fähigkeiten
 - Home Assistant Setup & Konfiguration
@@ -40,7 +40,7 @@ Portrait und Dokumentation der Person hinter Moni's Elektro Base.
 
 **Ziel:** Umfassende Dokumentation eines intelligenten Heimautomationssystems mit Fokus auf Nachhaltigkeit, Energieeffizienz und Offenheit.
 
-**Motivation:** [Bitte ergänzen]
+**Motivation:** was gibt es Neues?
 
 ## 📚 Ressourcen & Werkzeuge
 

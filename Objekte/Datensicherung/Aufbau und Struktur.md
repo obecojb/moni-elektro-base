@@ -4,7 +4,7 @@ Vollständige Dokumentation aller elektrischen Komponenten im Home Assistant Set
 
 ## 📋 Übersicht
 
-Dieses Vault dokumentiert alle Hardware, Software und Integrationsmöglichkeiten für ein intelligentes Heimautomationssystem basierend auf **Home Assistant**.
+Dieses Vault dokumentiert alle Hardware, Software und Integrationsmöglichkeiten für ein intelligentes Heimautomationssystem basierend auf [[Home Assistant]].
 
 ## 🏗️ Struktur
 

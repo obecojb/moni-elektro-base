@@ -4,13 +4,18 @@
 Moni's Elektro Base nutzt ein mehrschichtiges Sicherungssystem:
 
 - **Git-Versionskontrolle** für lokale Backups mit vollständiger Versionshistorie
-- **GitHub-Repository** (privat) als Cloud-Backup mit automatischen Pushes
+- [[Git-Versionskontrolle-Setup]] (privat) als Cloud-Backup mit automatischen Pushes
 - **Obsidian Vault** lokal auf dem NAS für schnelle Zugriffe
 - **Regelmäßige Commits** vor größeren Änderungen oder Veröffentlichungen
 
-Dadurch sind alle Komponenten-Dokumentationen mehrfach geschützt und jederzeit wiederherstellbar. Details dazu finden Sie in unserer [[README]]
+Zudem werden alle unsere Rechner von einem separaten [[Backup]] gesichert. Die Software ist das [[Veeam-Backup-Replication]], das unsere Daten auf unser [[NAS Synology DSOBE2023]] sichert. 
+Das NAS sichert sich täglich auf einen externen S3 Speicher bei Synology.
 
-[[Git-Versionskontrolle-Setup]]
+Dadurch sind alle Komponenten-Dokumentationen mehrfach geschützt und jederzeit wiederherstellbar. Details dazu finden Sie in unserer [[Aufbau und Struktur]]
+
+
+
+
 
 
 

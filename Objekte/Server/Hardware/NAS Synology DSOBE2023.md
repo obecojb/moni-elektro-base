@@ -8,7 +8,7 @@
 | --------------------- | --------------------------------------- |
 | **Servername**        | {{DSOBE2023}}                           |
 | **IP-Adresse**        |                                         |
-| **Standort**          |                                         |
+| **Standort**          | Keller rechts                           |
 | **Verantwortlicher**  |                                         |
 | **Status**            | 🟢 In Betrieb / 🟡 Wartung / 🔴 Offline |
 | **Produktivumgebung** | Ja / Nein                               |

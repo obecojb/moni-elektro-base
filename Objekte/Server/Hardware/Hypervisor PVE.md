@@ -1,6 +1,6 @@
 # Server: pve
 
-Diese Hardware bildet den [[Proxmox-Server]] ab.
+Diese Hardware bildet den [[Proxmox-PVE]] ab.
 
 ---
 

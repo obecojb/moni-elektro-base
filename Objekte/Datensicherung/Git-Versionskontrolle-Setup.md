@@ -4,7 +4,7 @@ Vollständige Dokumentation des Git-Setups für Moni's Elektro Base Vault.
 
 ## 📋 Übersicht
 
-Das Vault wird mit **Git** versioniert und automatisch zu **GitHub** gesichert. Dies ermöglicht:
+Das Vault wird mit **Github** versioniert und automatisch auf **GitHub** gesichert. Dies ermöglicht:
 - 📜 Vollständige Versionshistorie
 - 💾 Automatische Cloud-Backups
 - 🔄 Änderungen nachverfolgbar
