@@ -1,3 +1,4 @@
+[[Moni's Elektro Base|← Zurück zur Homepage]]
 # Impressum
 
 Angaben gemäß § 5 DDG (Digital-Dienste-Gesetz)

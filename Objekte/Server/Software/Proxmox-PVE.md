@@ -1,3 +1,4 @@
+[[Moni's Elektro Base|← Zurück zur Homepage]]
 ## Funktion
 
 Der Proxmox-Server ist eine Open-Source Virtualisierungsplattform, die auf einem [[Hypervisor PVE]] installiert ist. Er dient als zentrale Verwaltungsplattform für alle Dienste des Smart Home Systems.

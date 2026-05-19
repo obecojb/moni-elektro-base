@@ -1,3 +1,4 @@
+[[Moni's Elektro Base|← Zurück zur Homepage]]
 
 Gültig ab: Mai 2026
 

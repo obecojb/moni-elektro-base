@@ -1,3 +1,4 @@
+[[Moni's Elektro Base|← Zurück zur Homepage]]
 # Server: pve
 
 Diese Hardware bildet den [[Proxmox-PVE]] ab.

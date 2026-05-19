@@ -1,3 +1,4 @@
+[[Moni's Elektro Base|← Zurück zur Homepage]]
 # Moni's Elektro Base
 
 Vollständige Dokumentation aller elektrischen Komponenten im Home Assistant Setup.

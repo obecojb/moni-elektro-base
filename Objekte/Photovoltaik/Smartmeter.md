@@ -1,3 +1,4 @@
+[[Moni's Elektro Base|← Zurück zur Homepage]]
 # Smartmeter (easymeter Q3A)
 
 ![[Smartmeter.webp]]
