@@ -1,7 +1,7 @@
 
 ## Beschreibung
 
-Der Sonoff Dongle-M ist ein Ethernet/Wlan/USB-Zigbee-Adapter zur Erstellung eines Zigbee-Netzwerks in der [[Home Assistant]] Zentrale. Er fungiert als Coordinator für das [[Zigbee Anbindung|Zigbee-Netzwerk]] und ermöglicht die Kommunikation mit allen Zigbee-Geräten im Haus.
+Der Sonoff Dongle-M ist ein Ethernet/Wlan/USB-Zigbee-Adapter zur Erstellung eines Zigbee-Netzwerks in der [[Home Assistant]] Zentrale. Er fungiert als Coordinator für das Zigbee Netzwerk und ermöglicht die Kommunikation mit allen Zigbee-Geräten im Haus.
 
 ![[Sonnof.webp]]
 ## Spezifikationen
