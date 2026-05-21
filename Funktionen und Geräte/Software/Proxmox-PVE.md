@@ -11,6 +11,7 @@ Der Proxmox-Server führt folgende Aufgaben aus:
 
 - **Home Assistant Betrieb**: Auf einer virtuellen Maschine läuft die zentrale Home Automation. Dort werden alle elektrischen Komponenten und Sensoren verwaltet und gesteuert.
 - **Tor Snowflake**: Eine weitere VM stellt einen Tor Exit Node bereit und unterstützt damit das Tor-Netzwerk.
+- **Serviceüberwachung**: die Verfügbarkeit der Server wird von einer speziellen Anwendung [[Uptime Kuma]] innerhalb der VM von Hoe Assistant überwacht
 - **Ressourcen-Verwaltung**: Der Server verwaltet CPU, RAM und Speicherplatz effizient zwischen den einzelnen virtuellen Maschinen.
 - **Backup & Wiederherstellung**: Zentrale Verwaltung von VM-Backups für Datensicherung und Notfallfallwiederherstellung.
 - **Performance-Überwachung**: Kontinuierliche Kontrolle von Systemressourcen und Zustand aller laufenden Services.

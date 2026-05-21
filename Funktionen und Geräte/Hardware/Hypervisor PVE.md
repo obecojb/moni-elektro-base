@@ -3,7 +3,7 @@
 
 Diese Hardware bildet den [[Proxmox-PVE]] ab.
 
-![[ProxmoxPVE.webp]]
+![[ProxmoxPVE.webp|350]]
 
 ---
 

@@ -4,6 +4,8 @@
 
 Proton Pass ist ein sicherer Passwortmanager von Proton, der speziell für die verschlüsselte Speicherung von Passwörtern und sensitiven Inhalten entwickelt wurde. Es dient als zentrale Verwaltungsstelle für alle Anmeldedaten und vertrauliche Informationen.
 
+Wir speichern hier alle unsere Passworte und sensitiven Informationen. 
+
 ## Hauptfunktionen
 
 ### Passwortspeicherung

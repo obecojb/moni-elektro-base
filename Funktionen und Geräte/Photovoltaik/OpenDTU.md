@@ -2,6 +2,8 @@
 
 # OpenDTU
 
+![[OpenDTU.webp|350]]
+
 ## Übersicht
 
 OpenDTU ist eine Open-Source Alternative zu Hoymiles Cloud-Monitoring. Die Software ermöglicht die direkte Kommunikation mit Hoymiles Wechselrichtern und bietet lokales Monitoring ohne Cloud-Abhängigkeit.

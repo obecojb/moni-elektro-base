@@ -7,15 +7,6 @@ Vollständige Dokumentation aller elektrischen Komponenten im Home Assistant Set
 
 Dieses Vault dokumentiert alle Hardware, Software und Integrationsmöglichkeiten für ein intelligentes Heimautomationssystem basierend auf [[Home Assistant]].
 
-## 🏗️ Struktur
-
-- **`/Objekte`** – Einzelne HA-Komponenten und Geräte
-  - `Photovoltaik/` – Balkonkraftwerk, Smartmeter, Monitoring
-  - `Server/` – Hardware (NAS, Notebooks) und Software (Home Assistant, Proxmox)
-  - `Sonstige Hardware/` – Fritz Box, Zigbee Dongle, etc.
-- **`/Assets/Images`** – Bilder, Logos und Dokumentationen
-- **`/Templates`** – Vorlage für neue Komponenten
-
 ## 🔧 Komponenten-Dokumentation
 
 Jede Komponente enthält:
@@ -58,5 +49,5 @@ Die veröffentlichte Site ist mit Google Analytics integriert zur Erfassung von 
 ---
 
 **Sprache:** Deutsch 🇩🇪
-**Autor:** Monika
+**Autor:** Joachim
 **Lizenz:** Privat
