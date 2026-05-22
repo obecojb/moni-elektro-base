@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"c2c790a103aebd44","type":"file","file":"Moni's Elektro Base.md","x":-180,"y":-340,"width":380,"height":329},
-		{"id":"c71a3197bddf2681","type":"file","file":"Funktionen und Geräte/Software/Home Assistant.md","x":0,"y":60,"width":400,"height":340}
+		{"id":"c71a3197bddf2681","type":"file","file":"Funktionen und Geräte/Software/Home Assistant.md","x":0,"y":60,"width":380,"height":340},
+		{"id":"ff0028e41aefc8cd","x":-280,"y":500,"width":400,"height":400,"type":"file","file":"Funktionen und Geräte/Hardware/Hypervisor PVE.md"}
 	],
 	"edges":[
-		{"id":"9d14be001c7a84df","fromNode":"c71a3197bddf2681","fromSide":"top","toNode":"c2c790a103aebd44","toSide":"bottom"}
+		{"id":"9d14be001c7a84df","fromNode":"c71a3197bddf2681","fromSide":"top","toNode":"c2c790a103aebd44","toSide":"bottom"},
+		{"id":"cf1008219035cfce","fromNode":"ff0028e41aefc8cd","fromSide":"top","toNode":"c71a3197bddf2681","toSide":"bottom"}
 	]
 }

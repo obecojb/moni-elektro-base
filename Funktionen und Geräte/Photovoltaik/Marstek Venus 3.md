@@ -1,6 +1,7 @@
 [[Moni's Elektro Base|← Zurück zur Homepage]]
 # Marstek Venus 3
 
+![[Venus.webp|350]]
 ## Beschreibung
 
 Die Marstek Venus 3 ist ein intelligentes Stromspeicher-System (Batterie/Akku) für die Energiespeicherung. Sie dient zur Speicherung von Solarstrom oder Netzstrom und ermöglicht eine unterbrechungsfreie Stromversorgung sowie Energiemanagement im Haus.

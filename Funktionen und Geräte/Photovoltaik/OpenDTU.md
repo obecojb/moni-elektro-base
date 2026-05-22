@@ -2,7 +2,7 @@
 
 # OpenDTU
 
-![[OpenDTU.webp|350]]
+![[OpenDTU.webp|300]]
 
 ## Übersicht
 

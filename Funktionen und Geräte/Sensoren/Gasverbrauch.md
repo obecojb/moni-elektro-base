@@ -6,6 +6,7 @@
 
 Der Smartnetz Gasreader ist ein intelligenter Gaszähler-Auslese-Adapter. Er ermöglicht die digitale Überwachung des Gasverbrauchs durch optische Ablesung des Analogzählers und Datenübertragung an Home Assistant via WiFi oder Netzwerk.
 
+![[Gasreader.webp|400]]
 ## Gerätebeschreibung
 
 Der Gasreader liest die LED-Pulse des Gaszählers optisch aus und wandelt diese in digitale Verbrauchsdaten um. Diese Methode ist vollständig kontaktlos und nichtinvasiv – der Zähler wird nicht modifiziert.
@@ -37,26 +38,6 @@ Der Gasreader liest die LED-Pulse des Gaszählers optisch aus und wandelt diese 
 3. **IP-Adresse notieren**: Z.B. `192.168.2.50`
 4. **Home Assistant Integration**: API konfigurieren
 
-## Home Assistant Integration
-
-```yaml
-sensor:
-  - platform: rest
-    resource: http://192.168.2.50/api/data
-    name: "Gasverbrauch"
-    unit_of_measurement: "m³"
-    value_template: "{{ value_json.counter }}"
-    scan_interval: 30
-```
-
-MQTT-Alternative:
-```yaml
-sensor:
-  - platform: mqtt
-    state_topic: "smartnetz/gas/counter"
-    name: "Gasverbrauch"
-    unit_of_measurement: "m³"
-```
 
 ## Automatisierungen
 
@@ -80,11 +61,6 @@ sensor:
 - **Jährlich**: Messgenauigkeit verifizieren
 - **Batteriewechsel**: Bei drahtlosen Modellen nach 2-3 Jahren
 
-## Fehlerbehebung
-
-- **Keine Daten**: Lesekopf-Ausrichtung prüfen
-- **Langsame Reaktion**: WiFi-Signal verbessern
-- **Falsche Werte**: Zähler-Kalibrierung überprüfen
 
 ## Links & Ressourcen
 

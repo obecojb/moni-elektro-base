@@ -7,7 +7,7 @@
 Sensoren sind die Datenquellen des Smart-Home Systems. Sie erfassen Zustände, Messwerte und Informationen aus der physischen Umgebung und stellen diese Home Assistant zur Verfügung.
 
 Neben den Sensoren für den Bereich [[Funktionen und Geräte/Photovoltaik/Balkonkraftwerk|Stromerzeugung]] und [[Funktionen und Geräte/Photovoltaik/Marstek Venus 3|Stromspeicherung]] haben wir weitere Sensoren im Einsatz:
-- Gasverbrauch unserer Heizung
+- [[Gasverbrauch]] unserer Heizung
 - CO Überwachung
 - Feuchtigkeitsmessung im Gewächshaus
 - Wassersensor bei Wasseraustritt

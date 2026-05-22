@@ -5,7 +5,7 @@
 
 Die Fritz Box ist das zentrale Netzwerk-Gateway des Hauses und verwaltet alle Internet-, WLAN- und Ethernet-Verbindungen.
 
-![[FritzBox.webp]]
+![[FritzBox.webp|350]]
 
 ## Netzwerk-Architektur
 

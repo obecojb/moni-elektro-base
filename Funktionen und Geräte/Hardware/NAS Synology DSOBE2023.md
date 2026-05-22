@@ -1,6 +1,8 @@
 [[Moni's Elektro Base|← Zurück zur Homepage]]
 # Server: {{DSOBE2023}}
 
+![[DS418.webp|400]]
+
 ---
 
 ## Grundinformationen

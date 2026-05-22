@@ -13,13 +13,13 @@ created: 2026-05-19
 
 ## Übersicht
 
-| Eigenschaft | Wert |
-|-------------|------|
-| Pfad | `/usr/local/sbin/pve-update.sh` |
-| Aufruf | `bash /usr/local/sbin/pve-update.sh` |
-| Log-Datei | `/var/log/pve-update.log` |
-| E-Mail | `joachim.berger@obecosupport.de` |
-| HA VM-ID | `100` |
+| Eigenschaft | Wert                                 |
+| ----------- | ------------------------------------ |
+| Pfad        | `/usr/local/sbin/pve-update.sh`      |
+| Aufruf      | `bash /usr/local/sbin/pve-update.sh` |
+| Log-Datei   | `/var/log/pve-update.log`            |
+| E-Mail      | `joachim.berger@obecosupport.de`     |
+| HA VM-ID    | `100`                                |
 
 ## Beschreibung
 

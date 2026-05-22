@@ -1,7 +1,7 @@
 [[Moni's Elektro Base|← Zurück zur Homepage]]
 # Funktionsübersicht
 
-![[CT002.webp ]]
+![[CT002.webp|400 ]]
 
 ## Beschreibung
 

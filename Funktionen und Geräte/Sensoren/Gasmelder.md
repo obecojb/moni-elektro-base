@@ -1,6 +1,7 @@
 [[Moni's Elektro Base|← Zurück zur Homepage]]
 
 # Gasmelder - Shelly Gas
+![[Gasmelder.webp|350]]
 
 ## Übersicht
 

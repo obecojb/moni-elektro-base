@@ -2,6 +2,8 @@
 
 # Uptime Kuma
 
+![[UptimeKuma.webp]]
+
 ## Übersicht
 
 Uptime Kuma ist ein einfaches, benutzerfreundliches Open-Source Monitoring- und Statusseiten-Tool. Es dient der Überwachung von Website-Verfügbarkeit, Servern und Services in Echtzeit.

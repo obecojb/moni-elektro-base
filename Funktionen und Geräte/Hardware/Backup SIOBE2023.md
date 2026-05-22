@@ -1,7 +1,7 @@
 [[Moni's Elektro Base|← Zurück zur Homepage]]
 # Server: SIOBE2023
 
-![[sicherungsserver.webp]]
+![[sicherungsserver.webp|450]]
 ---
 
 ## Grundinformationen
