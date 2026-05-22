@@ -27,7 +27,7 @@ Sensoren bilden das **Nervensystem** der Hausautomation:
 - Messung von Raumtemperatur, Außentemperatur
 - Integration mit Heizung und Klimaanlage
 - Threshold-Alarme bei Zu- oder Abweichungen
-- Beispiel: Zigbee Temperatur-Sensor
+- Beispiel: [[Zigbee Daten im HomeAssistant|Zigbee]] Temperatur-Sensor
 
 ### 2. **Feuchte-Sensoren**
 - Luftfeuchtigkeit in Räumen

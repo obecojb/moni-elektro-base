@@ -1,6 +1,6 @@
 [[Moni's Elektro Base|← Zurück zur Homepage]]
 
-# Zigbee-Datenweg zu Home Assistant
+# Der Weg zu Home Assistant
 
 **Tags:** #homeassistant #zigbee #mqtt #smarthome #proxmox
 
@@ -25,9 +25,10 @@ Zigbee ist ein drahtloses Kommunikationsprotokoll für Smart-Home-Geräte. Es ba
 
 Vom physischen Zigbee-Gerät bis zur Sensor-Entität in Home Assistant gibt es zwei bewährte Ansätze.
 
+![[Zigbee-Datenweg-HomeAssistant.webp]]
 ---
 
-## Variante A: Zigbee2MQTT + MQTT-Broker (empfohlen)
+## Zigbee2MQTT + MQTT-Broker
 
 Dies ist die **professionelle und flexible Lösung** für umfangreiche Zigbee-Netzwerke.
 
@@ -71,72 +72,6 @@ Sensor-Entität in HA Dashboard
 
 ---
 
-## Variante B: ZHA (Zigbee Home Automation, direkt in Home Assistant)
-
-Dies ist die **einfache und schnelle Lösung** für kleinere Zigbee-Installationen.
-
-### Datenfluss-Diagramm
-
-```
-Zigbee-Gerät (Sensor, Schalter, Lampe)
-    ↓  2,4 GHz Funksignal
-Zigbee-Dongle (USB-Stick)     ← USB-Passthrough in Proxmox
-    ↓  Serielle Datenübertragung (direkt)
-ZHA-Integration in Home Assistant ← keine Zwischenschicht
-    ↓
-Sensor-Entität im HA Dashboard
-```
-
-### Funktionsweise
-
-ZHA (Zigbee Home Automation) ist eine **native Home Assistant Integration**, die Zigbee-Geräte direkt ohne weitere Middleware verwaltet. Es ist schneller, benötigt weniger Ressourcen und braucht keinen separaten MQTT-Broker.
-
-### Stärken dieser Variante
-
-✅ **Schnelle Einrichtung** – nur Dongle anschließen und konfigurieren
-✅ **Weniger Komponenten** – nur ein Dienst läuft
-✅ **Einfaches Debugging** – alles im HA-Web-UI sichtbar
-✅ **Geringer Ressourcen-Verbrauch** – ideal für schwache Hardware
-
-### Herausforderungen
-
-⚠️ **Kleinere Gerätekompatibilität** – nicht alle exotischen Geräte unterstützt
-⚠️ **Weniger Flexibilität** – limitierte Konfigurationsmöglichkeiten
-⚠️ **Abhängigkeit von HA-Updates** – Breaking Changes können Probleme verursachen
-⚠️ **Keine MQTT-Integration** – funktioniert isoliert von anderen Systemen
-
----
-
-## Vergleich: ZHA vs. Zigbee2MQTT
-
-| Kriterium | ZHA | Zigbee2MQTT |
-|---|---|---|
-| **Einrichtungsaufwand** | ⭐ gering | ⭐⭐ mittel |
-| **Gerätekompatibilität** | ⭐⭐⭐ gut | ⭐⭐⭐⭐⭐ sehr gut |
-| **Konfigurationsflexibilität** | ⭐⭐ begrenzt | ⭐⭐⭐⭐⭐ sehr hoch |
-| **Abhängigkeit von HA-Updates** | ⭐⭐⭐ hoch | ⭐ gering |
-| **Ressourcenbedarf** | ⭐⭐⭐⭐⭐ niedrig | ⭐⭐⭐ mittel |
-| **Debugging & Logging** | ⭐⭐⭐ gut | ⭐⭐⭐⭐⭐ ausgezeichnet |
-| **MQTT-Integration** | ❌ nein | ✅ ja |
-| **Best für Einsteiger** | ✅ **ja** | ⚠️ später |
-| **Best für Profis** | ⚠️ später | ✅ **ja** |
-
----
-
-## Empfehlung: Wann welche Variante?
-
-### ✅ ZHA wählen, wenn:
-- Du gerade anfängst und schnelle Erfolge brauchst
-- Du nur wenige (< 30) Zigbee-Geräte hast
-- Du Home Assistant auf schwacher Hardware (Raspberry Pi) nutzt
-- Du keine MQTT-Anbindung zu anderen Systemen brauchst
-
-### ✅ Zigbee2MQTT wählen, wenn:
-- Du viele Zigbee-Geräte betreibst (> 30)
-- Du bestimmte exotische Geräte brauchst, die ZHA nicht unterstützt
-- Du auch Node-RED, Domoticz oder andere Smart-Home-Tools nutzen möchtest
-- Du detailliertes Logging und Debugging brauchst
-- Du von HA-Updates unabhängig sein willst
 
 ---
 
@@ -186,14 +121,6 @@ Bei Proxmox-VM muss der USB-Dongle der HAOS-VM zugeordnet werden:
 - Platzierung: Zentral im Haus für beste Reichweite
 - Stromversorgung: PoE oder USB
 
-**Status:**
-- ⏳ USB-Passthrough zur HAOS-VM ausstehend
-- ⏳ ZHA vs. Zigbee2MQTT: Entscheidung folgt basierend auf Geräteanzahl
-
-**Nächste Schritte:**
-1. Dongle in Proxmox-VM mounten
-2. Variante wählen (wahrscheinlich Zigbee2MQTT für große Netzwerke)
-3. erste Geräte pairen und testen
 
 ---
 

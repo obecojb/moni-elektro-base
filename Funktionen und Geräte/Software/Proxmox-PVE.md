@@ -5,11 +5,13 @@ Der Proxmox-Server ist eine Open-Source Virtualisierungsplattform, die auf einem
 
 ![[proxmox.webp]]
 
+Hinweise zur Bedienung: [[Console Login]]
 ## Aufgaben
 
 Der Proxmox-Server führt folgende Aufgaben aus:
 
 - **Home Assistant Betrieb**: Auf einer virtuellen Maschine läuft die zentrale Home Automation. Dort werden alle elektrischen Komponenten und Sensoren verwaltet und gesteuert.
+- Die Anbindung der [[Zigbee Daten im HomeAssistant|Zigbee]] Sensoren über ein [[Ziggbee2MQT auf Proxmox|MQTT]] Gateway
 - **Tor Snowflake**: Eine weitere VM stellt einen Tor Exit Node bereit und unterstützt damit das Tor-Netzwerk.
 - **Serviceüberwachung**: die Verfügbarkeit der Server wird von einer speziellen Anwendung [[Uptime Kuma]] innerhalb der VM von Hoe Assistant überwacht
 - **Ressourcen-Verwaltung**: Der Server verwaltet CPU, RAM und Speicherplatz effizient zwischen den einzelnen virtuellen Maschinen.
