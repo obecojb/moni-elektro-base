@@ -5,16 +5,18 @@
 
 
 ---
-
+Unsere Serverhardware hostet den Hyper-V für unsere VMs:
+- 2 x Windows Domainkontroller
+- SQL Server 2022
+- Entwicklungsmaschinen für .Net
+- div. Testsysteme
 
 ## Grundinformationen
 
 | Feld                  | Inhalt        |
 | --------------------- | ------------- |
 | **Servername**        | HVOBE2026     |
-| **IP-Adresse**        |               |
 | **Standort**          | Keller rechts |
-| **Verantwortlicher**  |               |
 | **Status**            | 🟢 In Betrieb |
 | **Produktivumgebung** | Ja            |
 
@@ -23,17 +25,13 @@
 
 ---
 
-## Software
-
-### Betriebssystem
+## Betriebssystem
 
 | Feld                     | Inhalt              |
 | ------------------------ | ------------------- |
 | **OS**                   | Windows Server 2022 |
 | **Distribution/Version** | Microsoft           |
-| **Kernel-Version**       |                     |
-| **Installationsdatum**   |                     |
-| **EOL-Datum**            |                     |
+
 
 ### Hypervisor (falls vorhanden)
 
@@ -41,41 +39,19 @@
 | --------------- | ------- |
 | **Hypervisor**  | Hyper-V |
 | **Version**     |         |
-| **VMs laufend** |         |
+| **VMs laufend** | 4       |
 
 
 ### Backup & Disaster Recovery
 
-| Feld                               | Inhalt                |
-| ---------------------------------- | --------------------- |
-| **Backup-Strategie**               |                       |
-| **Backup-Ziel**                    | NAS / Cloud           |
-| **Backup-Häufigkeit**              | Täglich / Wöchentlich |
-| **Letzte Sicherung**               |                       |
-| **Wiederherstellung getestet**     | Ja /                  |
+| Feld                           | Inhalt                |
+| ------------------------------ | --------------------- |
+| **Backup-Strategie**           | Veeam                 |
+| **Backup-Ziel**                | NAS / Cloud           |
+| **Backup-Häufigkeit**          | Täglich / Wöchentlich |
+| **Letzte Sicherung**           |                       |
+| **Wiederherstellung getestet** | Ja /                  |
 
-
-
----
-
-## Sicherheit & Compliance
-
-| Feld | Inhalt |
-|---|---|
-| **Datenschutz-relevant** | Ja / Nein |
-| **Compliance** | DSGVO / NIS-2 / andere |
-| **Sicherheits-zertifizierung** | |
-| **Letzte Sicherheitsprüfung** | |
-
----
-
-## Notizen & Besonderheiten
-
-_Hier können spezielle Konfigurationen, bekannte Probleme oder Besonderheiten dokumentiert werden._
-
----
-
----
 
 **Stand:** 19.05.2026
 **Version:** 1.0

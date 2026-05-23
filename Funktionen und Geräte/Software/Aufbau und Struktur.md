@@ -21,14 +21,6 @@ Jede Komponente enthält:
 
 Dieses Vault wird mit **Obsidian Publish** veröffentlicht und ist öffentlich einsehbar.
 
-## 🔐 Sicherheit
-
-⚠️ **Keine sensitiven Daten dokumentiert:**
-- ❌ WiFi-Passwörter
-- ❌ Home Assistant Token
-- ❌ Private IP-Adressen
-- ✅ Generische Beispiele (z.B. `192.168.0.x`)
-
 ## 📊 Google Analytics
 
 Die veröffentlichte Site ist mit Google Analytics integriert zur Erfassung von Besucherstatistiken.

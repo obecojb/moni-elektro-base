@@ -2,7 +2,7 @@
 
 # Balkonkraftwerk
 
-![[balkonkraftwerk.webp|Balkonkraftwerk Übersicht]]
+![[PV2.webp]]
 
 ---
 
@@ -10,6 +10,7 @@
 
 Unser Balkonkraftwerk ist eine intelligente Mini-Solaranlage, die auf dem südwärts ausgerichteten Garagendach installiert ist. Das System erzeugt eigenverantwortlich Solarstrom und speist diesen intelligent in unser Stromnetz ein – mit automatischer Optimierung je nach aktuellem Stromverbrauch und Speicherkapazität.
 
+![[balkonkraftwerk.webp|Balkonkraftwerk Übersicht]]
 ## Funktionsweise
 
 Das Balkonkraftwerk arbeitet nach folgendem Prinzip:
