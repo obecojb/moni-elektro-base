@@ -63,3 +63,7 @@ Portrait und Dokumentation der Person hinter Moni's Elektro Base.
 
 **Zuletzt aktualisiert:** 2026-05-18
 **Status:** 🟢 Aktiv
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

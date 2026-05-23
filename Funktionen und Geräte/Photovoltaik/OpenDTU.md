@@ -105,3 +105,7 @@ dtu/
 - [Dokumentation](https://github.com/tbnobody/OpenDTU/wiki)
 - [Community Discord](https://discord.gg/CwwefnebqD)
 - [MQTT Home Assistant Guide](https://www.home-assistant.io/integrations/mqtt/)
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

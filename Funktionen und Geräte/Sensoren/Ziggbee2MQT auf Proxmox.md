@@ -60,14 +60,6 @@ npm start
 
 ---
 
-## Konfiguration
-
-Die Konfigurationsdatei befindet sich im Container unter:
-
-```
-/opt/zigbee2mqtt/data/configuration.yaml
-```
-
 ### Wichtige Einstellungen
 
 Für die Konfiguration des per USB angeschlossenen [[Zigbee Sonoff Dongle M]] wird diese Konfiguration verwendet:
@@ -167,3 +159,7 @@ systemctl stop zigbee2mqtt
 
 **Status:** In Einrichtung
 **Letzte Aktualisierung:** 2026-05-22
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

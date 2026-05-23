@@ -85,3 +85,7 @@ rest_command:
 - [GitHub Repository](https://github.com/louislam/uptime-kuma)
 - [Offizielle Docs](https://uptime.kuma.pet)
 - [Community-Forum](https://github.com/louislam/uptime-kuma/discussions)
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

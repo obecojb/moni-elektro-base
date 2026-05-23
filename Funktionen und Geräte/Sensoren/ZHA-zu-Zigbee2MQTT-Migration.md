@@ -132,3 +132,7 @@ Erst wenn alles funktioniert:
 - [ ] Alle 10 Geräte angelernt
 - [ ] Automationen angepasst
 - [ ] ZHA gelöscht
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

@@ -73,3 +73,7 @@ Diese Regel schützt vor Ausfällen einzelner Komponenten und Speichermedien.
 - **Speicherplatz-Verwaltung**: Überwachung verfügbaren Speicherplatzes
 - **Datei-Integrität**: Regelmäßige Checksummen-Überprüfung
 - **Alte Backups löschen**: Datenschutz durch Archivierung/Löschung nach Aufbewahrungsfrist
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

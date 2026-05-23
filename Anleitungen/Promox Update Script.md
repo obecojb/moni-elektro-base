@@ -174,3 +174,6 @@ echo ""
 - `pct` (Proxmox LXC CLI)
 - `qm` (Proxmox QEMU CLI)
 - `mailutils` (für E-Mail-Versand)
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

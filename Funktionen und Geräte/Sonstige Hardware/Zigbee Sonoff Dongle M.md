@@ -60,3 +60,7 @@ _Hier können Informationen zum Installationsort und der Netzwerk-Abdeckung hinz
 
 **Status**: In Verwendung
 **Letzte Aktualisierung**: 2026-05-16
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

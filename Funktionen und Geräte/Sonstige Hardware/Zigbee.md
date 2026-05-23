@@ -63,15 +63,13 @@ Das System nutzt den [[Zigbee Sonoff Dongle M]] als Zentrale:
 
 ## Integration in Home Assistant
 
-Zigbee-Geräte werden durch das Zigbee2MQTT Integration in Home Assistant eingebunden:
+Zigbee-Geräte werden über die [[Ziggbee2MQT auf Proxmox|Zigbee2MQTT]] Integration auf dem Proxmox-Server in Home Assistant eingebunden:
 
 - **Automatische Erkennung**: Neue Geräte werden erkannt und angezeigt
 - **Automation**: Szenen und Automatisierungen basierend auf Zigbee-Ereignissen
 - **Statusüberwachung**: Echtzeit-Anzeige von Gerätestatus
 - **Fernsteuerung**: Kontrolle aller Geräte von überall
 
-## Sicherheit
+---
 
-- **Verschlüsslung**: AES-128 für alle Kommunikation
-- **Pairing-Schutz**: Nur autorisierte Geräte können dem Netzwerk beitreten
-- **Regelmäßige Updates**: Firmware-Updates für Sicherheitspatches
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

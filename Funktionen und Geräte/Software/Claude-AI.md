@@ -88,3 +88,7 @@ Claude AI bietet spezialisierte Funktionen für die Arbeit mit [[Obsidian]] Vaul
 - **Skalierbarkeit**: Einfache Verwaltung großer Dokumentenmengen
 - **Intelligente Netzwerke**: Bessere Verlinkung und Navigation zwischen Inhalten
 - **Langzeitpflege**: Kontinuierliche Optimierung und Aktualisierung der Vault
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

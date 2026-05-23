@@ -52,3 +52,7 @@ Die Vault "Moni's Elektro Base" wird in Obsidian verwaltet und lokal auf dem [[N
 ## Obsidian Publish
 
 Die Vault kann über Obsidian Publish als öffentliche Website veröffentlicht werden. Dadurch ist die Dokumentation von Moni's Elektro Base weltweit erreichbar.
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

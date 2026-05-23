@@ -71,3 +71,7 @@ _Hier können spezielle Konfigurationen, bekannte Probleme oder Besonderheiten d
 
 **Stand:** 19.05.2026
 **Version:** 1.0
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

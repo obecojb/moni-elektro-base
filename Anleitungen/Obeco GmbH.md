@@ -57,3 +57,7 @@ Dokumentation der Obeco GmbH – IT-Dienstleistungsunternehmen und Partner.
 
 **Zuletzt aktualisiert:** 2026-05-18
 **Quelle:** https://www.obeco.de
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

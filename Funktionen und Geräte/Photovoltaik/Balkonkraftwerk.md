@@ -91,3 +91,7 @@ Das System wird über [[Home Assistant]] vollständig überwacht:
 
 **Status**: 🟢 Aktiv und optimiert
 **Letzte Aktualisierung**: 2026-05-20
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

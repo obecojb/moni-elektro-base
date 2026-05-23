@@ -92,3 +92,7 @@ Folgende Metriken werden in [[Home Assistant]] überwacht:
 **Status**: In Betrieb
 **Letzte Aktualisierung**: 2026-05-16
 **Ziel**: Maximale Kostenersparnis und CO₂-Reduktion durch intelligentes Energiemanagement
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

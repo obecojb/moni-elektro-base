@@ -206,3 +206,7 @@ E-Mail: [info@obecosupport.de](mailto:info@obecosupport.de)
 
 **Stand:** Mai 2026
 **Version:** 1.0
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

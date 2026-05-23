@@ -14,3 +14,6 @@ Die Netzwerkanbindung erfolgt über mehrere Kanäle:
 - **Internet & Netzwerk**: [[Fritz Box]] stellt WLAN, Ethernet und Internet-Zugang bereit
 - **Energieüberwachung**: Der Home Assistant überwacht den gesamten [[Stromverbrauch]] des Hauses
 - **Drahtlose Sensoren**: Zusätzliche Geräte werden über das [[Zigbee Sonoff Dongle M]] als koordiniertes Netzwerk verbunden
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

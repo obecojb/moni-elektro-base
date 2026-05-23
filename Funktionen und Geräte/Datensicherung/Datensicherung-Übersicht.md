@@ -23,3 +23,7 @@ Dadurch sind alle Komponenten-Dokumentationen mehrfach geschützt und jederzeit 
 
 ---
 
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

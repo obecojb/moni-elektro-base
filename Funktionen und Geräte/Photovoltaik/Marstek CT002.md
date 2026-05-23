@@ -44,3 +44,7 @@ Der Marstek CT002 wird typischerweise mit den [[Marstek Venus 3]] Speichern verb
 
 **Status**: In Verwendung
 **Letzte Aktualisierung**: 2026-05-16
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

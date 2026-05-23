@@ -49,3 +49,7 @@ _Hier können Details zur Integration eingetragen werden (Router-Einstellungen, 
 **Status**: Fehlerhaft
 **Letzte Aktualisierung**: 2026-05-16
 **TODO**: Fehlersuche und Dokumentation
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

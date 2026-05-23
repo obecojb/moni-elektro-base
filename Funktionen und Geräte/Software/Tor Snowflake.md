@@ -47,3 +47,6 @@ Der Betrieb erfolgt über eine containerisierte Tor-Snowflake-Instanz auf dem [[
 Durch den Betrieb von Tor Snowflake trägt Moni's Elektro Base aktiv zum freien und zensurfreien Internet bei. Das System hilft Menschen in repressiven Ländern, ihre Grundrechte auf Informationsfreiheit auszuüben.
 
 https://snowflake.torproject.org/de/
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

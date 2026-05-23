@@ -103,3 +103,7 @@ binary_sensor:
 - [Shelly Plus Gas](https://shelly.cloud/products/shelly-plus-gas/)
 - [Shelly Cloud App](https://www.shelly.cloud)
 - [Home Assistant Shelly Integration](https://www.home-assistant.io/integrations/shelly/)
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

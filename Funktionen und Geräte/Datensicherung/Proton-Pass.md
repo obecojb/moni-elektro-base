@@ -45,3 +45,7 @@ Wir speichern hier alle unsere Passworte und sensitiven Informationen.
 ## Integration
 
 Proton Pass integriert sich nahtlos in den Browsing-Workflow und kann zur sicheren Verwaltung aller Anmeldedaten für Home Assistant, Proxmox und weitere kritische Systeme verwendet werden.
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

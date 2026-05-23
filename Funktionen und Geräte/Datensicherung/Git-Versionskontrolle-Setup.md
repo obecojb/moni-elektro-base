@@ -162,3 +162,7 @@ README.md                        ← GitHub-Beschreibung
 
 **Zuletzt aktualisiert:** 2026-05-18
 **Status:** ✅ Aktiv und automatisiert
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

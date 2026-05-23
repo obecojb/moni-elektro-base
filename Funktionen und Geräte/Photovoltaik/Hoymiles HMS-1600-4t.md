@@ -74,3 +74,7 @@ sensor:
 - [Hoymiles HMS-1600-4t Manual](https://hoymiles.com)
 - [Home Assistant Hoymiles Component](https://github.com/mnsuperstar/hacs-hoymiles)
 - [iSolarCloud Cloud-Portal](https://www.isolarcloud.com)
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

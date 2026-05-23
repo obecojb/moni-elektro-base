@@ -33,3 +33,7 @@ Das Update erfolgt nach Eingang der Updatemeldung vom Hersteller mit [[Proxmox U
 
 
 
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

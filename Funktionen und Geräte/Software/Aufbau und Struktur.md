@@ -51,3 +51,7 @@ Die veröffentlichte Site ist mit Google Analytics integriert zur Erfassung von 
 **Sprache:** Deutsch 🇩🇪
 **Autor:** Joachim
 **Lizenz:** Privat
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

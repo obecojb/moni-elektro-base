@@ -7,3 +7,7 @@ Die Entwicklungsumgebung für diesen Obsidian Vault finden Sie hier unter \\dsob
 ---
 
 ![[Rechner Entwicklung.pdf|350]]
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

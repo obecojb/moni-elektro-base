@@ -58,3 +58,7 @@ Veeam Backup & Replication sichert alle Rechner des Systems auf das [[NAS]] Spei
 - **Backup-Überwachung**: Alerts bei fehlgeschlagenen Backups
 - **Aufbewahrungsrichtlinien**: Alte Backups nach definierten Zeiträumen archivieren/löschen
 - **Dokumentation**: Klare Dokumentation von Backup-Policies und Wiederherstellungsverfahren
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

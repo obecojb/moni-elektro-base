@@ -205,3 +205,7 @@ automation:
 - [MQTT Sensor Documentation](https://www.home-assistant.io/integrations/mqtt_sensor/)
 - [Zigbee Sensors](https://www.home-assistant.io/integrations/zigbee/)
 - [Automation Examples](https://www.home-assistant.io/docs/automation/examples/)
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

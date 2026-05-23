@@ -67,3 +67,7 @@ Der Gasreader liest die LED-Pulse des Gaszählers optisch aus und wandelt diese 
 - [Smartnetz Dokumentation](https://smartnetz.de)
 - [Volkszähler Community](https://wiki.volkszaehler.org)
 - [Home Assistant REST Integration](https://www.home-assistant.io/integrations/rest/)
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

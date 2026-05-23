@@ -132,3 +132,7 @@ Bei Proxmox-VM muss der USB-Dongle der HAOS-VM zugeordnet werden:
 - [📋 Zigbee2MQTT Geräte-Support](https://www.zigbee2mqtt.io/supported-devices/)
 - [🎓 Zigbee-Standard IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4)
 - [🐧 Docker Hub Zigbee2MQTT](https://hub.docker.com/r/koenkk/zigbee2mqtt)
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

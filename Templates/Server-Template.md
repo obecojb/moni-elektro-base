@@ -229,3 +229,7 @@ _Hier können spezielle Konfigurationen, bekannte Probleme oder Besonderheiten d
 **Version:** 1.0
 **Letzte Überprüfung:** [Datum]
 **Nächste Überprüfung:** [Datum]
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

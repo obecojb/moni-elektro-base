@@ -52,3 +52,7 @@ Informationen zur Verarbeitung Ihrer personenbezogenen Daten finden Sie in unser
 ---
 
 **Stand:** Mai 2026 · Obeco GmbH
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

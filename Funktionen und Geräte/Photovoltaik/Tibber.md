@@ -93,3 +93,7 @@ Tibber ist der zentrale Optimierungsparameter:
 **Kontakt**: https://tibber.com/de
 **Letzte Aktualisierung**: 2026-05-16
 **Zentraler Bestandteil**: Intelligentes Energiemanagement und Kostenoptimierung
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

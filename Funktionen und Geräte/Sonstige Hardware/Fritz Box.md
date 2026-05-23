@@ -18,3 +18,7 @@ Die Fritz Box ist das zentrale Netzwerk-Gateway des Hauses und verwaltet alle In
 
 
 
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

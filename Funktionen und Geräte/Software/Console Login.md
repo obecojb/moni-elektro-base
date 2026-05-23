@@ -131,3 +131,6 @@ top
 
 **Status:** In Betrieb
 **Letzte Aktualisierung:** 2026-05-22
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

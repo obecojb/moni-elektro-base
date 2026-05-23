@@ -69,3 +69,7 @@ Der easymeter Q3A ist zentral für:
 **Modell**: easymeter Q3A
 **Letzte Aktualisierung**: 2026-05-16
 **Schnittstelle**: [[Home Assistant]] Integration für Energiemanagement
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]

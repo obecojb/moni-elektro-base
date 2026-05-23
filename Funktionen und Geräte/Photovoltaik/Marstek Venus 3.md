@@ -37,3 +37,7 @@ _Hier können spezifische Informationen zu Betriebsparametern, Wartung und Nutzu
 
 **Status**: In Verwendung
 **Letzte Aktualisierung**: 2026-05-16
+
+---
+
+[[Anleitungen/Impressum|Impressum]] | [[Anleitungen/Datenschutzerklärung|Datenschutz]]
