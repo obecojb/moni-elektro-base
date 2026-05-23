@@ -26,14 +26,15 @@ Das Balkonkraftwerk arbeitet nach folgendem Prinzip:
 
 ## Hardware-Konfiguration
 
-| Komponente | Modell | Funktion |
-|---|---|---|
-| **Solarmodule** | 4x 400W | Stromerzeugung |
-| **Wechselrichter** | [[Hoymiles HMS-1600-4t]] | DC → AC Umwandlung |
-| **Strommesser** | [[Marstek CT002]] | Stromfluss-Messung |
-| **Regelgerät** | [[Marstek Venus 3]] (3x) | Intelligente Verteilung |
-| **Speicher** | LiFePO₄-Batterien | Pufferung für Netzeinspeisung |
-
+| Komponente         | Modell                   | Funktion                      |
+| ------------------ | ------------------------ | ----------------------------- |
+| **Solarmodule**    | 4x 400W                  | Stromerzeugung                |
+| **Wechselrichter** | [[Hoymiles HMS-1600-4t]] | DC → AC Umwandlung            |
+| **Überwachung**    | [[OpenDTU]]              | Daten an Home Assistant       |
+| **Regelung**       | [[Marstek CT002]]        | Stromfluss-Messung            |
+| **Speicher**       | [[Marstek Venus 3]] (3x) | Pufferung für Netzeinspeisung |
+| **Smartmeter**     | [[Smartmeter]]           | Verbrauchsmessung             |
+|                    |                          |                               |
 ## Überwachung & Monitoring
 
 ### Home Assistant Integration
@@ -45,28 +46,11 @@ Das System wird über [[Home Assistant]] vollständig überwacht:
 - **Automatisierungen**: Zeitgesteuerte Speicher-Ladevorgänge
 - **Wetter-Prognosen**: Erwartete Erzeugung basierend auf Wettervorhersage
 
-### Monitoring-Systeme
-
-- [[Smartmeter]]: Messung des Hausverbrauchs
-- [[Marstek CT002]]: Strommessung aus der Solaranlage
-- [[OpenDTU]]: Lokales Monitoring des Wechselrichters
-
-## Wartung & Betrieb
-
-### Wartungsplan
-
-- **Monatlich**: Visuelle Kontrolle auf Verschmutzung oder Beschädigungen
-- **Halbjährlich**: Kontrolle aller Anschlüsse und Stecker
-- **Jährlich**:
-  - Firmware-Updates einspielen
-  - Speicher-Kalibrierung durchführen
-  - Messdaten prüfen und archivieren
-
 ### Reinigung
 
 - Solarmodule bei starker Verschmutzung mit destilliertem Wasser und weichem Tuch reinigen
 - Keine aggressiven Reinigungsmittel verwenden
-- Idealerweise morgens oder abends reinigen (nicht bei direckter Sonneneinstrahlung)
+- Idealerweise morgens oder abends reinigen (nicht bei direkter Sonneneinstrahlung)
 
 ### Fehlerbehebung
 
