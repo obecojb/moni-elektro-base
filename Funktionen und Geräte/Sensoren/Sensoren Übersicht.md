@@ -72,8 +72,8 @@ Sensoren bilden das **Nervensystem** der Hausautomation:
 - Automatische Jalousien bei Sonne/Regen
 
 ### 9. **Wasser-Sensoren**
-- Wasserlecks erkennen
-- Wasserdurchfluss messen
+- Wasserlecks erkennen mit dem [[Shelly SHWT-1]]
+- Wasserdurchfluss messen mit dem [[SONOFF SWV-ZFE - Auto-Abschaltung deaktivieren| Sonoff SWV-ZFE]]
 - Infiltrationserkennung in Kellern
 - Sicherheitsalarme
 
