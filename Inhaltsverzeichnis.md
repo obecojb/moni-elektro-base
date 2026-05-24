@@ -47,7 +47,9 @@ Alle dokumentierten Komponenten, Systeme und Anleitungen auf einen Blick.
 
 - [[Funktionen und Geräte/Sensoren/Gasmelder|Gasmelder]]
 - [[Funktionen und Geräte/Sensoren/Gasverbrauch|Gasverbrauch]]
+- [[Funktionen und Geräte/Sensoren/SONOFF SWV-ZFE - Auto-Abschaltung deaktivieren|SONOFF SWV-ZFE - Auto-Abschaltung deaktivieren]]
 - [[Funktionen und Geräte/Sensoren/Sensoren Übersicht|Sensoren Übersicht]]
+- [[Funktionen und Geräte/Sensoren/Shelly SHWT-1|Shelly SHWT-1]]
 - [[Funktionen und Geräte/Sensoren/ZHA-zu-Zigbee2MQTT-Migration|ZHA-zu-Zigbee2MQTT-Migration]]
 - [[Funktionen und Geräte/Sensoren/Zigbee Daten im HomeAssistant|Zigbee Daten im HomeAssistant]]
 - [[Funktionen und Geräte/Sensoren/Ziggbee2MQT auf Proxmox|Ziggbee2MQT auf Proxmox]]
